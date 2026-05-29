@@ -5,16 +5,21 @@
 
 <b>1. Architect's Compass
 Coordinate Bookmarking: Save specific locations and structures in the world into the compass data.<br>
+
 Distance Tracking: Dynamically tracks and displays your exact distance from the bookmarked position.<br>
+
 Visual Overlays: Renders End Portal style particle lines pointing towards your bookmarked structures.
 
 <b>2. Void Pocket
 Singular Deep Storage: A pocket-dimension utility item designed to hold and compress massive quantities of a single block or item type.<br>
+
 Dynamic Texture States: Seamlessly transitions between empty (void_pocket_empty.png) and filled (void_pocket_full.png) states depending on the item data component storage.<br>
+
 Ultra-Flat 2D Hand Models: Scaled precisely on the Z-axis to maintain a clean, flat 2D sprite profile in both first-person and third-person perspectives, eliminating blocky 3D voxel extrusion bugs.
 
 <b>3. Phase Dagger
 Spatial Teleportation: Swap physical coordinates instantly with any target entity during combat.<br>
+
 Combat Utility: Highly responsive spatial positioning tool tailored for fluid positioning and evasion.<br>
 
 Technical Specifications & Stack
