@@ -18,6 +18,9 @@
 		"main": [
 			"net.pocket.mod.VoidCantation"
 		],
+		"client": [
+			"net.pocket.mod.VoidCantationClient"
+		],
 		"fabric-datagen": [
 			"net.pocket.mod.VoidCantationDataGenerator"
 		]

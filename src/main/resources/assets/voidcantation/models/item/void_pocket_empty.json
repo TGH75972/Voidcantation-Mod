@@ -1,0 +1,6 @@
+{
+"parent":"minecraft:item/generated",
+"textures":{
+"layer0":"voidcantation:item/void_pocket_empty"
+ }
+}
