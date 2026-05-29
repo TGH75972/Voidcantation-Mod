@@ -1,5 +1,5 @@
-<h1>VoidCantation
-<h3>This mod A highly optimized Fabric mod for Minecraft 1.21 that introduces utility tools designed to manipulate space, coordinates, and storage using clean, state-driven 2D visuals and custom Data Components.
+<h1>VoidCantation</h1>
+<h3>This mod A highly optimized Fabric mod for Minecraft 1.21 that introduces utility tools designed to manipulate space, coordinates, and storage using clean, state-driven 2D visuals and custom Data Components.</h3>
 
 <b>Features-
 
