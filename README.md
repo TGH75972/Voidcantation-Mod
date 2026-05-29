@@ -16,6 +16,7 @@ Ultra-Flat 2D Hand Models: Scaled precisely on the Z-axis to maintain a clean, f
 <b>3. Phase Dagger
 Spatial Teleportation: Swap physical coordinates instantly with any target entity during combat.<br>
 Combat Utility: Highly responsive spatial positioning tool tailored for fluid positioning and evasion.<br>
+
 Technical Specifications & Stack<br>
 Platform: Fabric Mod Loader
 Minecraft Version: 1.21
