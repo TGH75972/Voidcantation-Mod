@@ -17,11 +17,11 @@ Ultra-Flat 2D Hand Models: Scaled precisely on the Z-axis to maintain a clean, f
 Spatial Teleportation: Swap physical coordinates instantly with any target entity during combat.<br>
 Combat Utility: Highly responsive spatial positioning tool tailored for fluid positioning and evasion.<br>
 
-Technical Specifications & Stack<br>
+Technical Specifications & Stack
 Platform: Fabric Mod Loader
 Minecraft Version: 1.21
 Fabric API: 0.102.0+1.21
 Fabric Loom: 1.16.2
-Java Version: 21 (JDK 21)
+Java Version: 21 (JDK 21)<br>
 
 Storage Logic: Implemented using Minecraft's native DataComponentType registry API to maintain serialized entity, position, and items data directly inside the item stacks without performance overhead.
