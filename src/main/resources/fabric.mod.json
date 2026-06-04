@@ -3,7 +3,7 @@
 	"id": "voidcantation",
 	"version": "${version}",
 	"name": "VoidCantation",
-	"description": "This mod adds the phase dagger, the void pocket item and architects compass to the game",
+	"description": "This mod adds the phase dagger, the void pocket item and architects compass to the game as well as a void potion through the sacrifice of void pocket",
 	"authors": [
 		"Harshit"
 	],
